@@ -1,1 +1,1 @@
-# personal_expense_ttracker-SQL
+# personal_expense_tracker-SQL
